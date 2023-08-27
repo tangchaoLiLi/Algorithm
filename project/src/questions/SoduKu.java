@@ -2,6 +2,7 @@ package questions;
 
 import java.util.*;
 import java.util.regex.*;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
